@@ -13,6 +13,13 @@
 
 # Documentation  
 [DataCurator FileTree](https://github.com/roboyoshi/datacurator-filetree/tree/main)  
+[DataCurator REDDIT](https://www.reddit.com/r/datacurator/)  
 
 # Piracy
 [4chan Torrents](https://boards.4chan.org/t/)  
+[YT Downloader](https://en.y2mate.is/u2ZQt/)  
+[Annas-archive](https://annas-archive.org/?)  
+[z-library](https://z-library.sk/)  
+[z-library REDDIT](https://www.reddit.com/r/zlibrary/)  
+[Piracy REDDIT](https://www.reddit.com/r/Piracy/)  
+[PDF Zorro](https://www.pdfzorro.com/hl-es/)  
