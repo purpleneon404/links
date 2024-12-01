@@ -27,6 +27,10 @@
 [z-library REDDIT](https://www.reddit.com/r/zlibrary/)  
 [Piracy REDDIT](https://www.reddit.com/r/Piracy/)  
 [Jackett](https://github.com/Jackett/Jackett)  
+[Read Manga Online](https://bato.to/)  
+[Nyaa](https://nyaa.si/)  
+[FitGirl](https://fitgirl-repacks.site/)  
+[GoG](https://freegogpcgames.com/)  
 
 # Music
 [Vaporwave REDDIT](https://old.reddit.com/r/Vaporwave/)  
