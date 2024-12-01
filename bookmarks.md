@@ -13,6 +13,9 @@
 # Privacy / Security  
 [Surveillance Self-Defense](https://ssd.eff.org/)  
 [Cyber Security Base](https://cybersecuritybase.mooc.fi/)  
+[Subdivx](http://www.subdivx.com/)  
+[OpenSubtitles](https://www.opensubtitles.org/es)  
+
 # Documentation  
 [DataCurator FileTree](https://github.com/roboyoshi/datacurator-filetree/tree/main)  
 [DataCurator REDDIT](https://www.reddit.com/r/datacurator/)  
@@ -23,7 +26,12 @@
 [z-library](https://z-library.sk/)  
 [z-library REDDIT](https://www.reddit.com/r/zlibrary/)  
 [Piracy REDDIT](https://www.reddit.com/r/Piracy/)  
+[Jackett](https://github.com/Jackett/Jackett)  
 
 # Music
 [Vaporwave REDDIT](https://old.reddit.com/r/Vaporwave/)  
 [Nightwave Plaza](https://plaza.one/)  
+
+# Imageboards
+[4chan](https://boards.4chan.org/t/)  
+[Warosu](https://warosu.org/)  
