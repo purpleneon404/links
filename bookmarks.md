@@ -5,6 +5,7 @@
 [CryptDrive](https://cryptpad.fr/drive/)  
 [YT Downloader](https://en.y2mate.is/u2ZQt/)  
 [PDF Zorro](https://www.pdfzorro.com/hl-es/)  
+[Mega](https://mega.nz/)  
 
 # Networking  
 [MX Cold Swap](https://documentation.meraki.com/MX/Other_Topics/MX_Cold_Swap_Replacing_an_Existing_MX_with_a_Different_MX)  
@@ -39,3 +40,7 @@
 # Imageboards
 [4chan](https://boards.4chan.org/t/)  
 [Warosu](https://warosu.org/)  
+
+# Others
+[Ghibli Tickets](https://l-tike.com/st1/ghibli-en/sitetop)  
+
