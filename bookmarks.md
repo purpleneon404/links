@@ -40,6 +40,10 @@
 # Imageboards
 [4chan](https://boards.4chan.org/t/)  
 [Warosu](https://warosu.org/)  
+[2chan](https://www.2chan.net/)  
+[LainChan](https://lainchan.org/)  
+[WizChan](https://wizchan.org/)  
+[Uboachan](https://uboachan.net/)  
 
 # Others
 [Ghibli Tickets](https://l-tike.com/st1/ghibli-en/sitetop)  
