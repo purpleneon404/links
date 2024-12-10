@@ -6,6 +6,7 @@
 [YT Downloader](https://en.y2mate.is/u2ZQt/)  
 [PDF Zorro](https://www.pdfzorro.com/hl-es/)  
 [Mega](https://mega.nz/)  
+[yt-dlp](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#installation)  
 
 # Networking  
 [MX Cold Swap](https://documentation.meraki.com/MX/Other_Topics/MX_Cold_Swap_Replacing_an_Existing_MX_with_a_Different_MX)  
